@@ -18,7 +18,7 @@
       <key>metadata</key>
       <dict>
         <key>bundle-identifier</key>
-        <string>com.yourcompany.3qvuonggia</string> <!-- sửa lại nếu biết Bundle ID thật -->
+       <string>DNcom.3qsieubanh.R05</string> <!-- sửa lại nếu biết Bundle ID thật -->
         <key>bundle-version</key>
         <string>1.0</string>
         <key>kind</key>
